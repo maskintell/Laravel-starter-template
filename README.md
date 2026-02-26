@@ -10,7 +10,7 @@
     <a href="https://github.com/maskintelligence-gif/Laravel-starter-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/maskintelligence-gif/Laravel-starter-template">View Demo</a>
+   <a
     ·
     <a href="https://github.com/maskintelligence-gif/Laravel-starter-template/issues">Report Bug</a>
     ·
