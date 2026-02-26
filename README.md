@@ -7,9 +7,6 @@
   <p align="center">
     <strong>A professional-grade boilerplate to jumpstart your Laravel projects with modern best practices.</strong>
     <br />
-    
-    <br />
-    <br />
    <a
     ·
     <a href="https://github.com/maskintelligence-gif/Laravel-starter-template/issues">Report Bug</a>
